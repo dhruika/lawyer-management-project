@@ -20,14 +20,16 @@ The Lawyer Management System is a web-based platform designed to streamline the 
 
 ## Folder Structure
 
+```
 nayyay-main/
 │
-├── admin/ # Admin dashboard and controls
-├── lawyer/ # Lawyer dashboard and appointment manager
-├── client/ # Client portal for booking and case tracking
-├── includes/ # Reusable PHP files (db connection, auth)
-├── assets/ # CSS, JS, and images
-└── index.php # Landing page
+├── admin/        # Admin dashboard and controls
+├── lawyer/       # Lawyer dashboard and appointment manager
+├── client/       # Client portal for booking and case tracking
+├── includes/     # Reusable PHP files (db connection, auth)
+├── assets/       # CSS, JS, and images
+└── index.php     # Landing page
+```
 
 ## How to Run
 
