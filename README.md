@@ -56,13 +56,15 @@ nayyay-main/
 
 ## Contributors
 
- **Dhruvika**  
+ **Dhruvika Chitte**  
   GitHub: [@dhruika](https://github.com/dhruika)  
   LinkedIn: [linkedin.com/in/Dhruvika-chitte-link](LinkedIn:www.linkedin.com/in/dhruvika-chitte-4b22a5330 )
 
-**Mahesh Zune**
-   GitHub: [@maheshzune](https://github.com/maheshzune)
-   LinkedIn: [linkedin.com/in/Mahesh-Zune-link](https://www.linkedin.com/in/maheshzune/)
+  
+   **Mahesh Zune**  
+  GitHub: [@maheshzune](https://github.com/maheshzune)  
+  LinkedIn: [linkedin.com/in/Mahesh-Zune-link](https://www.linkedin.com/in/maheshzune/) 
+
 
 
 ## License
