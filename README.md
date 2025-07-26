@@ -39,17 +39,30 @@ nayyay-main/
 
 ## Screenshots
 
-_Screenshots of the login page, dashboard, and appointment system can be added here._
+## Screenshots
+
+### Landing Page
+![Landing Page](screenshots/Landing_Page.png)
+
+### About Page
+![About Page](screenshots/About_Page.png)
+
+### Login Page
+![Login Page](screenshots/Login_Page.png)
+
+### Services Page
+![Services Page](screenshots/Services_Page.png)
+
 
 ## Contributors
 
  **Dhruvika**  
   GitHub: [@dhruika](https://github.com/dhruika)  
-  LinkedIn: [linkedin.com/in/Mahesh-Zune-link](LinkedIn:www.linkedin.com/in/dhruvika-chitte-4b22a5330 )
+  LinkedIn: [linkedin.com/in/Dhruvika-chitte-link](LinkedIn:www.linkedin.com/in/dhruvika-chitte-4b22a5330 )
 
-- **Mahesh Zune**
+**Mahesh Zune**
    GitHub: [@maheshzune](https://github.com/maheshzune)
-  LinkedIn: [linkedin.com/in/Mahesh-Zune-link](https://www.linkedin.com/in/maheshzune/)
+   LinkedIn: [linkedin.com/in/Mahesh-Zune-link](https://www.linkedin.com/in/maheshzune/)
 
 
 ## License
